@@ -53,16 +53,16 @@ public class Config {
                 switch(key)
                 {
                     case "token":
-                        token = value;
+                        token = "NDEzMjg0MDU3NDcyOTU4NDY0.DWWkWg.ZgRPyt_YQnIUmXweEl_OwkpFdCw";
                         break;
                     case "prefix":
-                        prefix = value;
+                        prefix = '&';
                         break;
                     case "altprefix":
                         altprefix = value;
                         break;
                     case "owner":
-                        owner = value;
+                        owner = "299516082203656194";
                         break;
                     case "success":
                         success = value;
